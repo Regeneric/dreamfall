@@ -26,10 +26,10 @@ Nie była zresztą jedyna — wydany w tym samym roku *Broken Sword: The Angel o
 *Dreamfall* postawił jednak krok znacznie, znacznie dalej.
 
 Upatrywać takiego stanu rzeczy można w wielu miejscach, lecz najprościej będzie spojrzeć, na jakie platformy gra została wydana, aby wszystko stało się jasne.
-Produkcja zawitała na konsoli Microsoftu, zarówno oryginalnym pudle zwany *Xbox*, jak i później na *X360*.
+Produkcja zawitała na konsoli Microsoftu, zarówno oryginalnym pudle zwanym *Xbox*, jak i później na *X360*.
 
 Przez takie zagranie absolutnie niemożliwym stało się stworzenie klasycznej gry z tego gatunku. Nie ma co się oszukiwać, pad nie jest najlepszym urządzeniem do obsługi wskaźników.
-Zresztą nie była to chyba aż tak zła decyzja, skoro bezpośrednia kontynuacją *Dreamfall*, nosząca podtytuł *Chapters* także z takiej kamery i sterowania nie zrezygnowała. Odpowiednio je za to unowocześniła i ulepszyła.
+Zresztą nie była to chyba aż tak zła decyzja, skoro bezpośrednia kontynuacja *Dreamfall*, nosząca podtytuł *Chapters* także z takiej kamery i sterowania nie zrezygnowała. Odpowiednio je za to unowocześniła i ulepszyła.
 
 ### **Schemat rozgrywki**
 
@@ -40,7 +40,7 @@ Jednak o ile w roku 2006 zmienione podejście do sterowania postacią sprawiało
 Nie ma co się oszukiwać — całkiem spory ekwipunek, jakim dysponuje nasza postać, rzadko kiedy będzie zawierać więcej, jak trzy przedmioty. Dodatkowo samo łączenie różnych znajdziek ze sobą jest bardzo proste, wręcz nawet prymitywne.
 Samo w sobie nie jest to co prawda jeszcze wadą, ale kiedy rynek przesycił się wszelakimi "*symulatorami chodzenia*" czy przygodówkami od Telltale Games, ciężko nie przyrównywać do nich *Dreamfalla*.
 
-W roku 2018 ma on tego pecha, że nie on już w żaden sposób odkrywczy.
+W roku 2018 ma on tego pecha, że nie jest już w żaden sposób odkrywczy.
 *The Walking Dead* przedstawił niemal identyczny schemat: dużo rozmów, trochę przedmiotów i szczypta biegania po lokacji w tę i nazad.
 Nie stawia to w żaden sposób wyzwania przed graczem, nie sprawia mu przyjemności z odkrywania rozwiązań problemów i przy dłuższych sesjach wręcz przynudza.
 
