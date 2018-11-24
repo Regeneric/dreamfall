@@ -52,7 +52,7 @@ Ja wiem, że rok 2006 to czas eksperymentów, gdzie wydawcy nie bali się inwest
 
 O ile wspinanie się na różne przeszkody terenowe, rusztowania czy skrzynki nie sprawia problemu, bo nasza postać wykonuje większość akcji automatycznie, tak walka wręcz jest totalnie skopana.
 Ataki, jakie możemy wyprowadzić, są bardzo nieprecyzyjne, postać jest ociężała i reagująca na nasze akcje w sposób oporny. Dostępnych ciosów mamy... Dwa. Lekki i ciężki plus blok.
-Co prawda dodanie do kombinacji ataków któregoś z przycisków WSAD sprawia, że nasza postać atakuje z innego kierunku, lecz nie odniosłem wrażenie, by jakkolwiek to usprawniało walkę.
+Co prawda dodanie do kombinacji ataków któregoś z przycisków WSAD sprawia, że nasza postać atakuje z innego kierunku, lecz nie odniosłem wrażenia, by jakkolwiek to usprawniało walkę.
 
 Jest to element, który tak mocno psuje odbiór całości i niszczy pozytywne opinie o gameplayu, że naprawdę boli mnie w środku, że nie da się tych sekwencji zręcznościowych pominąć.
 
